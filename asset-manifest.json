@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/surveytiger/static/css/main.073c9b0a.css",
+    "main.js": "/surveytiger/static/js/main.b9dd487d.js",
+    "static/js/787.0713d635.chunk.js": "/surveytiger/static/js/787.0713d635.chunk.js",
+    "static/media/logo.svg": "/surveytiger/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/surveytiger/index.html",
+    "main.073c9b0a.css.map": "/surveytiger/static/css/main.073c9b0a.css.map",
+    "main.b9dd487d.js.map": "/surveytiger/static/js/main.b9dd487d.js.map",
+    "787.0713d635.chunk.js.map": "/surveytiger/static/js/787.0713d635.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9dd487d.js"
+  ]
+}
